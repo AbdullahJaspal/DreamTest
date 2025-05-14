@@ -1,0 +1,14 @@
+pre-commit:
+  parallel: true
+  commands:
+    # eslint:
+    #   glob: "*.{js,ts,jsx,tsx}"
+    #   run: yarn eslint {staged_files}
+    prettier:
+      glob: "*.{js,ts,jsx,tsx,json,css,md}"
+      run: yarn prettier --write {staged_files}
+
+commit-msg:
+  commands:
+    commitlint:
+      run: yarn commitlint --edit $1

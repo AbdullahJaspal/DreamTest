@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "549099161334",
+    "firebase_url": "https://dream-93ef3-default-rtdb.firebaseio.com",
+    "project_id": "dream-93ef3",
+    "storage_bucket": "dream-93ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549099161334:android:7a75523d97c8e062114ed7",
+        "android_client_info": {
+          "package_name": "com.dream_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549099161334-esk9qlkig3tvlobd6p795agd2r9i7vtj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dream_mobile",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "549099161334-ma45nfdsedf35rns0gt1on2br1kk7v7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dream_mobile",
+            "certificate_hash": "186c3d1a73dec0a95cff7dc3921c91b22a9fc22a"
+          }
+        },
+        {
+          "client_id": "549099161334-vcrplrh8dmpv3cuij8rmj0m9bf8q44g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuGGzB7IQNPvg-VJoSlSnfx5OpJf34_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549099161334-781c3o02isnf97fdhi4e73pdvc7hh662.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549099161334-ksuond5oqcmhht7f3ifg7ht9t2aeke2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nojomalmadina.appdream"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549099161334:android:e7277e9e2cee801d114ed7",
+        "android_client_info": {
+          "package_name": "com.dreamtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549099161334-muu46kmcqakodocri9i7fm3lfqoanmtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamtest",
+            "certificate_hash": "186c3d1a73dec0a95cff7dc3921c91b22a9fc22a"
+          }
+        },
+        {
+          "client_id": "549099161334-vcrplrh8dmpv3cuij8rmj0m9bf8q44g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuGGzB7IQNPvg-VJoSlSnfx5OpJf34_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549099161334-781c3o02isnf97fdhi4e73pdvc7hh662.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549099161334-ksuond5oqcmhht7f3ifg7ht9t2aeke2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nojomalmadina.appdream"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549099161334:android:2fc12f56e2811df3114ed7",
+        "android_client_info": {
+          "package_name": "com.nojomalmadina.appdream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549099161334-gjd5jcggnhp4dqag6eso8vk6f7at6qk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nojomalmadina.appdream",
+            "certificate_hash": "b9b2a8114aa05dea0e29b201b51d776acaee3bc8"
+          }
+        },
+        {
+          "client_id": "549099161334-jo0igm076ej2kjbbqntf63m046hamu3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nojomalmadina.appdream",
+            "certificate_hash": "6d8c48f490f3f9008380e13cb7b6aeb258cce18a"
+          }
+        },
+        {
+          "client_id": "549099161334-k5ohqlpr89o6o12g08p03tdpqpifis4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nojomalmadina.appdream",
+            "certificate_hash": "17dfa0b978d8c04afbff693f2c4020ff3656fb67"
+          }
+        },
+        {
+          "client_id": "549099161334-nh7v92tl9ishn8er49sdafvnfb5fvboi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nojomalmadina.appdream",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "549099161334-otr6lh3494jarhtsria2c8gpv13n3iit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nojomalmadina.appdream",
+            "certificate_hash": "9e0574c4f3f00bd7d4849500d9c3e35a76d93e12"
+          }
+        },
+        {
+          "client_id": "549099161334-ttdqtmvm1n5hj7f2jt2kbpvfp63u7tng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nojomalmadina.appdream",
+            "certificate_hash": "186c3d1a73dec0a95cff7dc3921c91b22a9fc22a"
+          }
+        },
+        {
+          "client_id": "549099161334-vcrplrh8dmpv3cuij8rmj0m9bf8q44g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuGGzB7IQNPvg-VJoSlSnfx5OpJf34_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549099161334-781c3o02isnf97fdhi4e73pdvc7hh662.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "549099161334-ksuond5oqcmhht7f3ifg7ht9t2aeke2v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nojomalmadina.appdream"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Icon renders correctly 1`] = `
+<View>
+  <RNSVGSvgView
+    align="xMidYMid"
+    bbHeight={36}
+    bbWidth={250}
+    fill="none"
+    focusable={false}
+    height={36}
+    meetOrSlice={0}
+    minX={0}
+    minY={0}
+    style={
+      [
+        {
+          "backgroundColor": "transparent",
+          "borderWidth": 0,
+        },
+        {
+          "flex": 0,
+          "height": 36,
+          "width": 250,
+        },
+      ]
+    }
+    vbHeight={36}
+    vbWidth={250}
+    width={250}
+  >
+    <RNSVGGroup
+      fill={null}
+      propList={
+        [
+          "fill",
+        ]
+      }
+    >
+      <RNSVGPath
+        d="M0.5 0.5H249V0.5Z M249 0.5L244.601 4.66305C241.353 7.60156 239.5 11.777 239.5 16.1569V31C239.5 33.4853 237.485 35.5 235 35.5H0.5V0.5Z"
+        fill={
+          {
+            "payload": 4284966759,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+          ]
+        }
+        stroke={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+      />
+      <RNSVGText
+        alignmentBaseline="middle"
+        content={null}
+        dx={[]}
+        dy={[]}
+        fill={
+          {
+            "payload": 4294967295,
+            "type": 0,
+          }
+        }
+        font={
+          {
+            "fontSize": 18,
+            "fontWeight": 600,
+            "textAnchor": "start",
+          }
+        }
+        propList={
+          [
+            "fill",
+          ]
+        }
+        rotate={[]}
+        x={
+          [
+            80,
+          ]
+        }
+        y={
+          [
+            20,
+          ]
+        }
+      >
+        <RNSVGTSpan
+          content="hello"
+          dx={[]}
+          dy={[]}
+          fill={
+            {
+              "payload": 4278190080,
+              "type": 0,
+            }
+          }
+          font={{}}
+          rotate={[]}
+          x={[]}
+          y={[]}
+        />
+      </RNSVGText>
+    </RNSVGGroup>
+  </RNSVGSvgView>
+</View>
+`;

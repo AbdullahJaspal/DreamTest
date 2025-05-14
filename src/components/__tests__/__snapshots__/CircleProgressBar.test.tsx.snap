@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CircleProgressBar renders correctly 1`] = `
+<View
+  style={
+    {
+      "alignItems": "center",
+      "justifyContent": "center",
+      "position": "absolute",
+      "top": 10,
+    }
+  }
+>
+  <RNSVGSvgView
+    bbHeight={0}
+    bbWidth={0}
+    focusable={false}
+    height={0}
+    style={
+      {
+        "backgroundColor": "transparent",
+        "borderWidth": 0,
+      }
+    }
+    width={0}
+  >
+    <RNSVGGroup
+      fill={
+        {
+          "payload": 4278190080,
+          "type": 0,
+        }
+      }
+    >
+      <RNSVGCircle
+        cx={0}
+        cy={0}
+        fill={
+          {
+            "payload": 0,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+          ]
+        }
+        r={0}
+        stroke={
+          {
+            "payload": 4292072403,
+            "type": 0,
+          }
+        }
+        strokeWidth={0}
+      />
+      <RNSVGCircle
+        cx={0}
+        cy={0}
+        fill={
+          {
+            "payload": 0,
+            "type": 0,
+          }
+        }
+        propList={
+          [
+            "fill",
+            "stroke",
+            "strokeWidth",
+            "strokeDasharray",
+            "strokeDashoffset",
+            "strokeLinecap",
+          ]
+        }
+        r={0}
+        stroke={
+          {
+            "payload": 4294944000,
+            "type": 0,
+          }
+        }
+        strokeDasharray={
+          [
+            "0",
+            "0",
+          ]
+        }
+        strokeDashoffset={null}
+        strokeLinecap={1}
+        strokeWidth={0}
+      />
+    </RNSVGGroup>
+  </RNSVGSvgView>
+  <Text
+    style={
+      {
+        "color": "#fff",
+        "fontSize": 13,
+        "fontWeight": "bold",
+        "position": "absolute",
+        "textAlign": "center",
+      }
+    }
+  >
+    0
+    %
+  </Text>
+</View>
+`;

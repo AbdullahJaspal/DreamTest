@@ -1,0 +1,9 @@
+{
+  "name": "dream_mobile",
+  "displayName": "dream_mobile",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4615570259788732~5038632009",
+    "ios_app_id": "ca-app-pub-4615570259788732~9744856679",
+    "user_tracking_usage_description": "This identifier will be used to deliver personalized ads to you."
+  }
+}

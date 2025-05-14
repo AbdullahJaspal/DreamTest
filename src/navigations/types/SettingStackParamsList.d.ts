@@ -1,0 +1,27 @@
+export type SettingStackParamsList = {
+  AccountScreen: undefined;
+  MainChangeAccountType: undefined;
+  MainInsightScreen: undefined;
+  Balance: undefined;
+  MainSecurity: undefined;
+  PrivacyPolicy: undefined;
+  Wallet_MainScreen: undefined;
+  Backup_and_restore: undefined;
+  Space_saving: undefined;
+  BlockUser: undefined;
+  Video_Live_Allowed: undefined;
+  QRScreen: undefined;
+  LuckyWheel: undefined;
+  Wheelluckgift: undefined;
+  Question_answer: undefined;
+  Payment_Method: undefined;
+  MainScreen: undefined;
+  ReportUser: undefined;
+  UserVerification: undefined;
+  CloseAccount: undefined;
+  MainNotification: undefined;
+  Language: Language;
+  Userblocked: undefined;
+  Messageme: undefined;
+  Viewlist: undefined;
+};

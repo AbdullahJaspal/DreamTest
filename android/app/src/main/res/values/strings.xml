@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">Dream</string>
+  <string name="facebook_app_id">394511315590288</string>
+  <string name="facebook_client_token">9bc322f98d2e3426e09fdedfa9765474</string>
+  <string name="com.twitter.sdk.android.CONSUMER_KEY">4lYiTuDOnwHD0oAIRh6Iwan03</string>
+  <string name="com.twitter.sdk.android.CONSUMER_SECRET">
+    Xy5Jts4KoZVC14AsIu5vXUUKT0qAtu1BzPvA0FxFj6lI5j4Psi</string>
+  <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">
+    DO_NOT_ASK_JAVASCRIPT</string>
+  <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">
+    ALWAYS_SEND</string>
+  <string name="CodePushDeploymentKey" moduleConfig="true">ChWyFpzN5cLcrmwXtM5Gl0do921SOCyIPbgI0</string>
+
+</resources> 

@@ -1,0 +1,101 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Arabic/Amiri-Bold.ttf",
+      "sha1": "7ef8ec23e521e60b26113f577e4d61bcb7d04bfc"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Amiri-Regular.ttf",
+      "sha1": "54761ecc5c999143024e969a8416465f91edc0e3"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Cairo-Bold.ttf",
+      "sha1": "5a7b0543c6c62843900f5d5a049ebc32b5434f5d"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Cairo-Regular.ttf",
+      "sha1": "c40cd69d854d12c818b30c86668a45305b531c5d"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Changa-Bold.ttf",
+      "sha1": "3c3ffb47224f01bc80f77b18474527783efa3677"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Changa-Regular.ttf",
+      "sha1": "0423037e8ccdf412a116e5ab18bb4eff595234f9"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Lateef-Bold.ttf",
+      "sha1": "3cf4a9519163563fc8fdd8d064979bae533017cc"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Lateef-Regular.ttf",
+      "sha1": "08f357d47a69886ab436b00319fd546f99faa84a"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Mukta-Bold.ttf",
+      "sha1": "a928d8465eb1a78f4c442c7f94a231041ff5bcac"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Mukta-Regular.ttf",
+      "sha1": "c7e02ce2f3fcc9faa6fbe659f4d108777b2f66df"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Tajawal-Bold.ttf",
+      "sha1": "7978fe35c091cce1d12b05990499510059b64a62"
+    },
+    {
+      "path": "src/assets/fonts/Arabic/Tajawal-Regular.ttf",
+      "sha1": "1139e55d7b8909acda1b9f3f90e30f7774e93fef"
+    },
+    {
+      "path": "src/assets/fonts/English/Lato-Bold.ttf",
+      "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
+    },
+    {
+      "path": "src/assets/fonts/English/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "src/assets/fonts/English/Merriweather_120pt-Bold.ttf",
+      "sha1": "e4c50a3bffb5c8d5152ee7196e2fae5381096e78"
+    },
+    {
+      "path": "src/assets/fonts/English/Merriweather_96pt-Regular.ttf",
+      "sha1": "1cca5066583221cb7615ea99f98d0b1d965b296a"
+    },
+    {
+      "path": "src/assets/fonts/English/OpenSans-Bold.ttf",
+      "sha1": "953814da1b753763dfa5a7ecc18bdbb14890e16b"
+    },
+    {
+      "path": "src/assets/fonts/English/OpenSans-Regular.ttf",
+      "sha1": "76ea5d4c70539ad9b0e7faf7e4fbe3bae8a961c7"
+    },
+    {
+      "path": "src/assets/fonts/English/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/English/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/fonts/English/Roboto-Bold.ttf",
+      "sha1": "508c35dee818addce6cc6d1fb6e42f039da5a7cf"
+    },
+    {
+      "path": "src/assets/fonts/English/Roboto-Regular.ttf",
+      "sha1": "3bff51436aa7eb995d84cfc592cc63e1316bb400"
+    },
+    {
+      "path": "src/assets/fonts/English/Ubuntu-Bold.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    },
+    {
+      "path": "src/assets/fonts/English/Ubuntu-Regular.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    }
+  ]
+}

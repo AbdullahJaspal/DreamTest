@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container renders correctly 1`] = `
+<View
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={{}}
+>
+  <Image
+    source={
+      {
+        "uri": "https://avatars.githubusercontent.com/u/129264144",
+      }
+    }
+    style={
+      {
+        "borderColor": "#020202",
+        "borderRadius": 35,
+        "height": 0,
+        "width": 0,
+      }
+    }
+  />
+  <Image
+    source={
+      {
+        "testUri": "../../../src/assets/images/crown.png",
+      }
+    }
+    style={
+      {
+        "borderColor": "#020202",
+        "height": 90,
+        "left": -15,
+        "position": "absolute",
+        "top": -14,
+        "width": 90,
+      }
+    }
+  />
+</View>
+`;

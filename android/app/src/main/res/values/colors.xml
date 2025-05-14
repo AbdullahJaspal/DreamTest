@@ -1,0 +1,7 @@
+<resources>
+    <color name="bootsplash_background">#000000</color>
+    <item name="red" type="color">#FC0303</item>
+    <integer-array name="androidcolors">
+        <item>@color/red</item>
+    </integer-array>
+</resources>
